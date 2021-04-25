@@ -1,6 +1,8 @@
 <h3 align="center">Cześć! Jestem BarthVisuals.</h3>
 <h3 align="center">Informacje o mnie:</h3>
 
+
+
 - 🔭 Aktualnie pracuję nad: **LightBlock_Engine, Pluginy na YouTube**
 
 - 🌱 Aktualnie uczę się: **Java**
@@ -26,9 +28,11 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarthVisuals&theme=radical" />
 
-<br>
+<br><br>
 
-<h3 align="left">Wesprzyj mnie:</h3>
+<h3 align="center">Wesprzyj mnie:</h3>
 <p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BarthVisuals" /></a></p><br><br>
+
+<br><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=barthvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="barthvisuals" /> </p>
