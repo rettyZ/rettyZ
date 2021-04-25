@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barthvisuals&show_icons=true&theme=radical&locale=en&layout=compact" alt="barthvisuals" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" alt="barthvisuals" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" alt="barthvisuals" /><br></p>
 
 <h3 align="left">Wesprzyj mnie:</h3>
 <p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BarthVisuals" /></a></p><br><br>
