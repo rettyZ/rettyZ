@@ -18,6 +18,6 @@
 <h3 align="left">&nbsp;</h3>
 <h3 align="left">&nbsp;</h3>
 <h3 align="left">Wesprzyj mnie:</h3>
-<p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BarthVisuals" width="210" height="50" align="left" /></a></p>
+<p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="BarthVisuals" width="210" height="50" align="left" /></a></p><br>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=barthvisuals&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="barthvisuals" /></p>
