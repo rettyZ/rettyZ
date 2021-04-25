@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barthvisuals&label=Profile%20views&color=0e75b6&style=flat" alt="barthvisuals" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barthvisuals" alt="barthvisuals" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/externoclub" target="blank"><img src="https://img.shields.io/twitter/follow/externoclub?logo=twitter&style=for-the-badge" alt="externoclub" /></a> </p>
 
 - 🔭 Aktualnie pracuję nad: **LightBlock_Engine, Pluginy na YouTube**
@@ -32,4 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BarthVisuals" /></a></p><br><br>
-
