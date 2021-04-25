@@ -1,4 +1,3 @@
-<h3 align="center">Cześć! Jestem BarthVisuals.</h3><br>
 <h3 align="left">Informacje o mnie:</h3>
 <br>
 - 🔭 Aktualnie pracuję nad: **LightBlock_Engine, Pluginy na YouTube**
