@@ -2,4 +2,4 @@
 <img align="left" alt="Java" width="75px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" />
 <br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=BarthVisuals&show_icons=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarthVisuals&langs_count=8&icon_color=eb5a50&theme=dark&title_color=9919e3" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarthVisuals&theme=radical" />
