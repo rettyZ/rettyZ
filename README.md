@@ -21,9 +21,12 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Statystyki:</h3>
-<p <img align="left" src="https://github-readme-stats.vercel.app/api?username=BarthVisuals&show_icons=true&theme=radical" /><br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarthVisuals&theme=radical" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barthvisuals&show_icons=true&theme=radical&locale=en&layout=compact" alt="barthvisuals" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barthvisuals&show_icons=true&theme=radical&locale=en" alt="barthvisuals" />
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" /></p>
 
 <h3 align="left">Wesprzyj mnie:</h3>
 <p><a href="https://www.buymeacoffee.com/BarthVisuals"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="BarthVisuals" /></a></p><br><br>
