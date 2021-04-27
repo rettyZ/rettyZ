@@ -1,6 +1,6 @@
 <h3 align="left">Informacje o mnie:</h3>
 
-- 🔭 Aktualnie pracuję nad: **LightBlock_Engine, Pluginy na YouTube**
+- 🔭 Aktualnie pracuję nad: **ExternoClient 1.12 (Minecraft Client), LightBlock_Engine, Pluginy na YouTube**
 
 - 🌱 Aktualnie uczę się: **Java**
 
