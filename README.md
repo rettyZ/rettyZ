@@ -4,7 +4,7 @@
 
 - 🌱 Aktualnie uczę się: **Java**
 
-- 📫 Kontakt: **barthvisuals#7981**
+- 📫 Kontakt: **barthvisuals#2137**
 
 
 <h3 align="left">Jestem na:</h3>
