@@ -2,7 +2,7 @@
 
 - 🔭 Aktualnie pracuję nad: **ExternoClient 1.12 (Minecraft Client), LightBlock_Engine, Pluginy na YouTube**
 
-- 🌱 Aktualnie uczę się: **Java**
+- 🌱 Aktualnie uczę się: **Java, Python**
 
 - 📫 Kontakt: **barthvisuals#2137**
 
