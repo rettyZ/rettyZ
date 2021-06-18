@@ -1,8 +1,8 @@
 <h3 align="left">Informacje o mnie:</h3>
 
-- 🔭 Aktualnie pracuję nad: **ExternoClient 1.12 (Minecraft Client), LightBlock_Engine, Pluginy na YouTube**
+- 🔭 Aktualnie pracuję nad: **HekateClient 1.12 (Minecraft Client), LightBlock_Engine, Pluginy na YouTube**
 
-- 🌱 Aktualnie uczę się: **Java, Python**
+- 🌱 Aktualnie uczę się: **Java, Python, C++**
 
 - 📫 Kontakt: **barthvisuals#2137**
 
