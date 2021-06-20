@@ -6,14 +6,15 @@
 
 - 📫 Kontakt: **barthvisuals#2137**
 
-
-<h3 align="left">Jestem na:</h3>
-<p align="left"><a href="https://twitter.com/externoclub" target="blank"><img src="https://icons-for-free.com/iconfiles/png/512/twitter+twitter+logo+website+icon-1320190502299816317.png" alt="externoclub" width="48" height="36" align="middle" /></a> <a href="https://stackoverflow.com/users/15760351" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="15760351" width="47" height="35" align="middle" /></a> <a href="https://fb.com/barthvisualspriv" target="blank"><img src="https://partner-bud.pl/wp-content/uploads/2016/11/facebook-icon-preview-1.png" alt="barthvisualspriv" width="48" height="36" align="middle" /></a>&nbsp; <a href="https://instagram.com/barth.official" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="barth.official" width="36" height="27" align="middle" /></a> &nbsp; <a href="https://www.youtube.com/c/barthvisuals" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="barthvisuals" width="35" height="26" align="middle" /></a> &nbsp; <a href="https://discord.gg/vtnwSbSFDh" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="vtnwSbSFDh" width="36" height="27" align="middle" /></a></p>
 <h3 align="left">Potrafię:</h3>
 - **Java**
 - **Python**
 - **C++**
 - **C#**
+
+
+<h3 align="left">Jestem na:</h3>
+<p align="left"><a href="https://twitter.com/externoclub" target="blank"><img src="https://icons-for-free.com/iconfiles/png/512/twitter+twitter+logo+website+icon-1320190502299816317.png" alt="externoclub" width="48" height="36" align="middle" /></a> <a href="https://stackoverflow.com/users/15760351" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="15760351" width="47" height="35" align="middle" /></a> <a href="https://fb.com/barthvisualspriv" target="blank"><img src="https://partner-bud.pl/wp-content/uploads/2016/11/facebook-icon-preview-1.png" alt="barthvisualspriv" width="48" height="36" align="middle" /></a>&nbsp; <a href="https://instagram.com/barth.official" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="barth.official" width="36" height="27" align="middle" /></a> &nbsp; <a href="https://www.youtube.com/c/barthvisuals" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" alt="barthvisuals" width="35" height="26" align="middle" /></a> &nbsp; <a href="https://discord.gg/vtnwSbSFDh" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" alt="vtnwSbSFDh" width="36" height="27" align="middle" /></a></p>
 <h3 align="left">Statystyki:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=barthvisuals&show_icons=true&theme=radical&locale=en" alt="barthvisuals" align="left" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BarthVisuals&theme=radical" alt="barthvisuals" align="middle" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=barthvisuals&show_icons=true&theme=radical&locale=en&layout=compact" alt="barthvisuals" align="left" /></p>
 <p>&nbsp;</p>
