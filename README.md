@@ -1,12 +1,12 @@
 <h3 align="left">Informacje o mnie:</h3>
 
-- 🔭 Aktualnie pracuję nad: **Serwer LIGHTBLOCK.PL**
+- 🔭 Aktualnie pracuję nad: **CS:GO CHEATS**
 
-- 🌱 Aktualnie uczę się: **HTML, CSS + JS**
+- 🌱 Aktualnie uczę się: **ZNOWU C++**
 
 - 📫 Kontakt: **barthvisuals#2137**
 
-<h3 align="left">Potrafię:</h3>
+<h3 align="left">Podstawy:</h3>
 - Java<br>
 - Python<br>
 - C++<br>
