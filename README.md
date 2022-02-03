@@ -1,10 +1,10 @@
 <h3 align="left">Informacje o mnie:</h3>
 
-- 🔭 Aktualnie pracuję nad: **CS:GO CHEATS**
+- 🔭 Aktualnie pracuję nad: **...**
 
-- 🌱 Aktualnie uczę się: **ZNOWU C++**
+- 🌱 Aktualnie uczę się: **C++**
 
-- 📫 Kontakt: **barthvisuals#2137**
+- 📫 Kontakt: **barthvisuals#8196**
 
 <h3 align="left">Podstawy:</h3>
 - Java<br>
