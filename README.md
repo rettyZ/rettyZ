@@ -9,9 +9,6 @@
 <h3 align="left">Programming Languages:</h3>
 - Java<br>
 - Kotlin<br>
-- Python<br>
-- C++<br>
-- C#<br>
 - PHP<br>
 
 <h3 align="left">Languages:</h3>
