@@ -1,5 +1,7 @@
 <h3 align="left">About me:</h3>
 
+- 🍎 MacOS
+
 - 🔭 Working on: **...**
 
 - 🌱 Learning: **Life**
@@ -14,6 +16,11 @@
 <h3 align="left">Languages:</h3>
 - Polish<br>
 - English<br>
+
+Apart from programming, I deal with it:
+- Making beats
+- Mix/Mastering
+- Video Production
 
 <h3 align="left">Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api?username=rettyZ&show_icons=true&theme=radical&locale=en" alt="xxx" align="left" /><img src="https://github-readme-stats.vercel.app/api/wakatime?username=rettyZ&theme=radical" alt="xxx" align="middle" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rettyZ&show_icons=true&theme=radical&locale=en&layout=compact" alt="xxx" align="left" /></p>
