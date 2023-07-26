@@ -4,7 +4,7 @@
 
 - 🌱 Learning: **Life**
 
-- 📫 Contact: **discord: rettyZ#8196**
+- 📫 Contact: **discord: rettyz**
 
 <h3 align="left">Programming Languages:</h3>
 - Java<br>
