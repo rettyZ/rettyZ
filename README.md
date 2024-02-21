@@ -1,3 +1,6 @@
+<p align="right"><img src="https://komarev.com/ghpvc/?username=BarthVisuals&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="barthvisuals" /></p>
+
+
 <h3 align="left">About me:</h3>
 
 - 🍎 MacOS
@@ -28,5 +31,3 @@
 <h3 align="left">&nbsp;</h3>
 <h3 align="left">&nbsp;</h3>
 <h3 align="left">&nbsp;</h3>
-
-<p align="right"><img src="https://komarev.com/ghpvc/?username=BarthVisuals&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="barthvisuals" /></p>
