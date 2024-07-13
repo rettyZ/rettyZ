@@ -5,9 +5,9 @@
 
 - 🍎 MacOS
 
-- 🔭 Working on: **...**
+- 🔭 Working on: **OgrodZmian.pl**
 
-- 🌱 Learning: **Life**
+- 🌱 Learning: **Next.JS - React, TypeScript, TailWindCSS**
 
 - 📫 Contact: **discord: rettyz**
 
