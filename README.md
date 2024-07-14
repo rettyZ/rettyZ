@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm rettyz</h1>
 <h3 align="center">A developer based in Warsaw, Poland 🇵🇱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rettyz&label=Profile%20views&color=b000a8&style=flat-square" alt="rettyz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/retty1z" target="blank"><img src="https://img.shields.io/twitter/follow/retty1z?logo=twitter&style=for-the-badge" alt="retty1z" /></a> </p>
-
 - 🔭 I’m currently working on **OgrodZmian.pl**
 
 - 🌱 I’m currently learning **Next.JS - React, TypeScript, TailWindCSS**
@@ -24,4 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rettyz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rettyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rettyz&show_icons=true&theme=tokyonight&title_color=000000&locale=en" alt="rettyz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rettyz&show_icons=true&theme=tokyonight&locale=en" alt="rettyz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rettyz&label=Profile%20views&color=b000a8&style=flat-square" alt="rettyz" /> </p>
