@@ -22,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rettyz&show_icons=true&theme=tokyonight&locale=en" alt="rettyz" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rettyz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rettyz" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rettyz&label=Profile%20views&color=b000a8&style=flat-square" alt="rettyz" /> </p>
