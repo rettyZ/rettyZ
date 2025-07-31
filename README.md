@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rettyz</h1>
+<h3 align="center">Hi 👋, I'm rettyz</h3>
 <h3 align="center">Warsaw, Poland 🇵🇱</h3>
 
 # 💫 About Me:
